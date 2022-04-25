@@ -25,14 +25,14 @@ h2 {
   width: 100%;
   margin-left: 35px;
   height: 272px;
-  background: url("/ND/img/Užduotis\ 1.png");
+  background: url("/grid/img/Užduotis\ 1.png");
   background-repeat: no-repeat;
   background-size: contain;
 }
 .img-2 {
   width: 100%;
   height: 290px;
-  background: url("/ND/img/užduotis\ 2.jpg");
+  background: url("/grid/img/užduotis\ 2.jpg");
   background-repeat: no-repeat;
   background-size: contain;
 }
